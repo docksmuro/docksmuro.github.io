@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://docksmuro.github.io/sitemap
+Sitemap: https://docksmuro.github.io/app/sitemap
+Sitemap: https://docksmuro.github.io/assets/sitemap
+Sitemap: https://docksmuro.github.io/css/sitemap
+Sitemap: https://docksmuro.github.io/includes/sitemap
+Sitemap: https://docksmuro.github.io/item/sitemap
+Sitemap: https://docksmuro.github.io/src/sitemap
